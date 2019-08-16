@@ -1,0 +1,1 @@
+Este es mi primer proyecto en angular desarrollado durante la clase de Diseño Web, con el profesor Omar Marenco
